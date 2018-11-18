@@ -18,7 +18,7 @@
 
 
 # ScreenShot
-![alt text](https://raw.githubusercontent.com/GabrielGymkhanaCGN/JavaLibrary/img/img.jpg)
+![alt text](https://raw.githubusercontent.com/GabrielGymkhanaCGN/JavaLibrary/master/img/img.jpg)
 
 This is not open source!
 Dont Ask me about source code.
